@@ -1,2 +1,2 @@
 # Story
-A collection of stories
+A collection of very short stories
